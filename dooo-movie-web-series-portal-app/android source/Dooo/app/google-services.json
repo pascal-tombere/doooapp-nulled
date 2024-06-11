@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871088620854",
+    "project_id": "free-movies-app-2024",
+    "storage_bucket": "free-movies-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871088620854:android:1af3a48c636560537e9f97",
+        "android_client_info": {
+          "package_name": "com.freemoviestv.freemoviesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfKoBv8Tag-rxfKTQZA2EwMMVsLBVMoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

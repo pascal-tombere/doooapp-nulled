@@ -1,0 +1,2 @@
+project(':build.gradle').projectDir = new File(rootDir, 'codecanyon-31258711-dooo-movie-web-series-portal-app/android source/Dooo/app/build.gradle')
+include ':build.gradle'
